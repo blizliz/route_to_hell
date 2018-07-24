@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+}
+
+.field + .field {
+    margin-left: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+label {
+    padding-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+button {
+    display: block;
+}
+
+#search_path {
+    margin-bottom: 30px;
+}
+
+#mapid {
+    height: 300px;
+}
